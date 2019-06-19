@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "echarts-大数据图表展示",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,5 +27,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "echarts": "^4.2.1",
+    "echarts-for-react": "^2.0.15-beta.0",
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
+    "react-router-config": "^5.0.1",
+    "react-router-dom": "^5.0.1"
   }
 }
